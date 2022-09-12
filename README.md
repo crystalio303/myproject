@@ -1,15 +1,24 @@
-# git practice    
+# git practice 
+
+## Practice directory
+- With Lexi
+- 2022-09-12
+-
+
+### With Lexi
 sdflkj
 
-## bigger font
+###### bigger font
 
-### biggest font
+###### biggest font
 
-# some other font
+##### some other font
 
 sdfkl;
 
-# jkl;!
+jkl;!
+
+### 2022/09/12
 
 ![image](https://user-images.githubusercontent.com/66132013/189753443-b04a0307-d7bf-4d86-95a7-e76e8df81a3b.png)
 ![image](https://user-images.githubusercontent.com/66132013/189753488-036ba932-47aa-4085-be15-8953ff499831.png)
